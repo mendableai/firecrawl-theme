@@ -13,6 +13,7 @@ Firecrawl Theme is a carefully crafted theme available in both Dark and Light va
 2. Go to `Preferences > Color Theme`
 3. Select either "Firecrawl Theme" for dark mode or "Firecrawl Theme Light" for light mode
 
-## Screenshots
+## Screenshot
 
-Coming soon...
+![Firecrawl Theme Screenshot](firecrawl_theme.png)
+
