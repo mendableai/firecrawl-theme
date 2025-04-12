@@ -115,7 +115,7 @@
 		  "string.quoted punctuation.definition.string.end"
 		],
 		"settings": {
-		  "foreground": "#4d4d4d"
+		  "foreground": "#757575"
 		}
 	  },
 	  {
