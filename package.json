@@ -1,7 +1,7 @@
 {
     "name": "firecrawl-theme",
     "displayName": "Firecrawl Theme",
-    "description": "Firecrawl Theme is a theme create by Firecrawl for Mendable.",
+    "description": "Firecrawl Theme is a theme create by the Firecrawl team.",
     "publisher": "Firecrawl",
     "version": "0.0.2",
     "icon":"firecrawl-logo.png",
@@ -17,11 +17,6 @@
     ],
     "contributes": {
         "themes": [
-            {
-                "label": "Firecrawl Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Firecrawl-theme.json"
-            },
             {
                 "label": "Firecrawl Theme Light",
                 "uiTheme": "vs",

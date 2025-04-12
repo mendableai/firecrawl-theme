@@ -1,4 +1,4 @@
-# A Firecrawl theme for VS Code, Cursor, and Windsurf
+# A Firecrawl theme for VS Code, Cursor, and Windsurf 🔥
 
 ## Features
 
