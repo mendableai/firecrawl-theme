@@ -82,7 +82,7 @@
 	  "editorBracketPairGuide.background5": "#FF707050",
 	  "editorBracketPairGuide.background6": "#FF9C5E50",
 	  
-	  "editorBracketPairGuide.activeBackground1": "#D94848",
+	  "editorBracketPairGuide.activeBackground1": "#ffb688",
 	  "editorBracketPairGuide.activeBackground2": "#E56E4B",
 	  "editorBracketPairGuide.activeBackground3": "#E97318",
 	  "editorBracketPairGuide.activeBackground4": "#F79A4B",
@@ -189,24 +189,6 @@
 		],
 		"settings": {
 		  "foreground": "#4d4d4d"
-		}
-	  },
-	  {
-		"name": "Import Curly Braces",
-		"scope": [
-		  "meta.import punctuation.definition.block",
-		  "meta.import meta.block punctuation.definition.block",
-		  "meta.brace.curly.js",
-		  "meta.brace.curly.ts",
-		  "meta.brace.curly.tsx",
-		  "punctuation.definition.block.js",
-		  "punctuation.definition.block.ts",
-		  "punctuation.definition.block.tsx",
-		  "meta.imports punctuation.definition.block",
-		  "meta.export punctuation.definition.block"
-		],
-		"settings": {
-		  "foreground": "#FF7E41"
 		}
 	  },
 	  {
