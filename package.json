@@ -3,7 +3,7 @@
     "displayName": "Firecrawl Theme",
     "description": "Firecrawl Theme is a theme created by the Firecrawl team.",
     "publisher": "Firecrawl",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "icon":"firecrawl_logo.png",
     "repository": {
         "type": "git",
