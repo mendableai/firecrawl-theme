@@ -19,8 +19,13 @@
         "themes": [
             {
                 "label": "Firecrawl Theme",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/Firecrawl-theme.json"
+            },
+            {
+                "label": "Firecrawl Theme Light",
+                "uiTheme": "vs",
+                "path": "./themes/Firecrawl-theme-light.json"
             }
         ]
     }
