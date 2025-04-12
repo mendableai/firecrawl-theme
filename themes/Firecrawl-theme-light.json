@@ -192,6 +192,24 @@
 		}
 	  },
 	  {
+		"name": "Import Curly Braces",
+		"scope": [
+		  "meta.import punctuation.definition.block",
+		  "meta.import meta.block punctuation.definition.block",
+		  "meta.brace.curly.js",
+		  "meta.brace.curly.ts",
+		  "meta.brace.curly.tsx",
+		  "punctuation.definition.block.js",
+		  "punctuation.definition.block.ts",
+		  "punctuation.definition.block.tsx",
+		  "meta.imports punctuation.definition.block",
+		  "meta.export punctuation.definition.block"
+		],
+		"settings": {
+		  "foreground": "#FF7E41"
+		}
+	  },
+	  {
 		"name": "Attribute Equal Signs, handlebars operators",
 		"scope": [
 		  "punctuation.separator.key-value.html",
