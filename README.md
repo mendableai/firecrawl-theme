@@ -8,5 +8,9 @@
 
 ## Screenshot
 
+Light Theme:
 ![Firecrawl Theme Screenshot](firecrawl_theme.png)
+
+Dark Theme:
+![Firecrawl Theme Screenshot](firecrawl_theme_dark.png)
 
